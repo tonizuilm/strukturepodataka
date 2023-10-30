@@ -1,3 +1,31 @@
 ﻿  zadatak2.c
-C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(109): warning C4716: 'AddToListEnd': must return a value
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(73,18): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(73,13): warning C4024: 'AddToList': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(76,21): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(76,16): warning C4024: 'AddToListEnd': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(79,14): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(79,9): warning C4024: 'print': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(82,26): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(82,21): warning C4024: 'findperson': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(86,15): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(86,10): warning C4024: 'delete': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(89,25): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(89,20): warning C4024: 'addpersonbeafore': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(92,23): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(92,18): warning C4024: 'addpersonafter': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(95,20): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(95,15): warning C4024: 'printtofile': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(98,21): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(98,16): warning C4024: 'readfromfile': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(101,20): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(101,15): warning C4024: 'sortedenter': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(64,7): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(161,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(183,42): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(183,37): warning C4024: 'findpersonbeafore': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(196,41): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(196,36): warning C4024: 'findpersonbeafore': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(217,33): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position *'
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(217,28): warning C4024: 'findperson': different types for formal and actual parameter 1
+C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\vjezba2\zadatak2.c(269,15): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
   vjezba2.vcxproj -> C:\Users\Korisnik\Desktop\toni fesb\strukturepodataka\vjezba2\x64\Debug\vjezba2.exe
