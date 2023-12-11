@@ -1,0 +1,4 @@
+﻿  zadatak7.c
+C:\Users\Korisnik\Desktop\3. semestar\strukturepodataka\zadatak7\zadatak7\zadatak7.c(156,91): warning C4133: 'function': incompatible types - from 'Position' to 'const char *'
+C:\Users\Korisnik\Desktop\3. semestar\strukturepodataka\zadatak7\zadatak7\zadatak7.c(159,64): warning C4133: 'function': incompatible types - from 'Position' to 'const char *'
+  zadatak7.vcxproj -> C:\Users\Korisnik\Desktop\3. semestar\strukturepodataka\zadatak7\x64\Debug\zadatak7.exe
